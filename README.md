@@ -4,23 +4,23 @@
 
 🎖️ Técnico em Desenvolvimento de Sistemas (ETEC)
 
-💻 Conhecimentos:
+## 💻 Conhecimentos
+- C
+- Java
+- HTML
+- CSS
+- JavaScript
+- Banco de Dados
+- Git e GitHub
 
-* C
-* Java
-* HTML
-* CSS
-* JavaScript
-* Banco de Dados
-* Git e GitHub
+## 📚 Atualmente estudando
+- Desenvolvimento Web
+- Programação Orientada a Objetos
+- Estruturas de Dados
+- Algoritmos
 
-📚 Atualmente estudando:
+## 🎯 Objetivo
+Busco oportunidades para desenvolver minhas habilidades, aprender novas tecnologias e contribuir com projetos de software.
 
-* Desenvolvimento Web
-* Programação Orientada a Objetos
-* Estruturas de Dados
-* Algoritmos
-
-🚀 Em busca de oportunidades para desenvolver minhas habilidades, aprender novas tecnologias e contribuir com projetos de software.
-
-📫 LinkedIn: https://www.linkedin.com/in/seu-link
+## 📫 Contato
+- linkedin.com/in/lucas-guilherme-andrade-silva-3426b0320
